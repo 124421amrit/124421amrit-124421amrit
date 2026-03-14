@@ -8,8 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/amrit-raj-pal-4aa491381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-raj-pal-4aa491381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrit.c.12828@iibm.in) 
 
 # 💻 Tech Stack:
